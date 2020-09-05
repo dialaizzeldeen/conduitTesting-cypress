@@ -1,6 +1,5 @@
 Given('I open Conduit login page', () => {
     cy.visit('https://demo.productionready.io/#/login')
-    diala test
   });
   
   When('I type in username {string}', (content) => { 
